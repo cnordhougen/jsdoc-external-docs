@@ -1,0 +1,22 @@
+{
+  "name": "jsdoc-external-docs",
+  "version": "1.0.0",
+  "description": "Allows you to make externally documented types link directly to their external documentation. Includes JS builtin MDN docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnordhougen/jsdoc-external-docs.git"
+  },
+  "keywords": [
+    "jsdoc"
+  ],
+  "author": "Chris Nordhougen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnordhougen/jsdoc-external-docs/issues"
+  },
+  "homepage": "https://github.com/cnordhougen/jsdoc-external-docs#readme"
+}
